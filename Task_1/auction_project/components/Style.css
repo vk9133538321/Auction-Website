@@ -1,0 +1,15 @@
+.container{
+    max-width: 400px;
+    background-color:#f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px;
+}
+#h2color{
+    color: blue;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
